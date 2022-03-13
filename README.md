@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[PRIVATE QUICK NOTES](https://gists.github.com/RanjanGumanju)![1576145377789](https://user-images.githubusercontent.com/20850797/158067287-f2c9c9f2-ee44-4d39-9921-153032108d33.jpeg)
+[PRIVATE QUICK NOTES](https://gists.github.com/RanjanGumanju)![1576145377789]
+(https://user-images.githubusercontent.com/20850797/158067287-f2c9c9f2-ee44-4d39-9921-153032108d33.jpeg)
+
+[PRIVATE QUICK NOTES](https://gists.github.com/RanjanGumanju)
+https://github.com/sbibek086/DockerKubernetes.CodeSnippets.DevResourceServerLinks/issues/14
 
