@@ -1,24 +1,93 @@
-### Hi there 👋
+# Hi there 👋 I'm Ranjan Gumanju
 
-Laravel Developer with 4 years experience since 2019. Over the years, worked on e-commerce, CMS, and many more projects.
+### Full Stack Developer | Laravel Specialist | Next.js Enthusiast
 
-<!--
-**RanjanGumanju/RanjanGumanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer from Nepal with 4+ years of professional experience building scalable web applications, e-commerce platforms, CMS solutions, and custom business systems.
 
-Here are some ideas to get you started:
+🚀 I specialize in designing and developing modern web applications using Laravel, React, Vue, and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-(https://gists.github.com/RanjanGumanju)![1576145377789]
-(https://user-images.githubusercontent.com/20850797/158067287-f2c9c9f2-ee44-4d39-9921-153032108d33.jpeg)
+---
 
-[PRIVATE QUICK NOTES](https://gists.github.com/RanjanGumanju)
-https://github.com/sbibek086/DockerKubernetes.CodeSnippets.DevResourceServerLinks/issues/14
+## 💻 Tech Stack
 
+### Backend
+
+* Laravel
+* PHP
+* Node.js
+* REST API Development
+* MySQL
+* PostgreSQL
+* Redis
+* Queue Systems
+
+### Frontend
+
+* React.js
+* Next.js
+* Vue.js
+* JavaScript (ES6+)
+* TypeScript
+* Tailwind CSS
+* Bootstrap
+* jQuery
+
+### DevOps & Cloud
+
+* Docker
+* Kubernetes (Learning)
+* Linux Server Administration
+* Nginx
+* DigitalOcean
+* AWS S3
+* Cloudflare
+* CI/CD Pipelines
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Postman
+* Figma
+* Jira
+* Trello
+
+---
+
+## 🔭 Currently Working On
+
+* Full Stack Applications with Laravel + Next.js
+* Multi-tenant SaaS Platforms
+* CRM & Customer Communication Systems
+* Cloud Infrastructure & Deployment Automation
+
+---
+
+## 🌱 Currently Learning
+
+* Kubernetes
+* System Architecture Design
+* Microservices
+* AI-assisted Development Workflows
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanjanGumanju\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjanGumanju\&layout=compact)
+
+---
+
+## 🤝 Let's Connect
+
+* GitHub: https://github.com/RanjanGumanju
+* LinkedIn: Add your LinkedIn profile here
+* Portfolio: Add your portfolio website here
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning complex business requirements into scalable, maintainable software solutions.
